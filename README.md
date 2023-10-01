@@ -22,6 +22,7 @@
 
 <a href="https://linkedin.com/in/fady-malk-1332003Fm" target="_blank"><img src="https://img.shields.io/badge/-Fady%20Malek-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/FadyMalek" target="_blank"><img src="https://img.shields.io/badge/-Fady%20Malek-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://wa.me/+201276354141" target="_blank"><img src="https://img.shields.io/badge/-Fady%20Malek-0077B5?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
